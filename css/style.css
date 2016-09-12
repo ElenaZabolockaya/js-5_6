@@ -1,0 +1,28 @@
+body{
+	font-family: Arial, sans-serif;
+}
+
+.container{
+	padding-top: 30px;
+
+}
+
+#displ{
+	width: 430px;
+	margin: 20px auto;
+	font-size: 4em;
+	font-weight: bold;
+}
+
+#main{
+	width: 210px;
+	margin: 20px auto;
+	font-size: 1.5em;
+
+}
+
+#resultList{
+	width: 380px;
+	margin: 20px auto;
+	font-size: 2.5em;
+}
